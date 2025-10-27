@@ -1,9 +1,9 @@
-# **Mini Todo App**
+# **Nano ToDo**
 
 ---
 
 ## **📌 Descripción**
-**Mini Todo App** es una aplicación de gestión de tareas construida con un **Nano-Signals mini-framework reactivo personalizado**, sin dependencias externas. Demuestra cómo crear aplicaciones web modernas utilizando **JavaScript vanilla**, **nano-signals para la reactividad**, **nano-router para el enrutamiento SPA**, y **persistencia en localStorage**.
+**Nano ToDo** es una aplicación de gestión de tareas construida con un **Nano-Signals mini-framework reactivo personalizado**, sin dependencias externas. Demuestra cómo crear aplicaciones web modernas utilizando **JavaScript vanilla**, **nano-signals para la reactividad**, **nano-router para el enrutamiento SPA**, y **persistencia en localStorage**.
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## **🏗️ Arquitectura**
 ```
-mini-todo-app/
+nano-todo/
 ├── index.html
 ├── app.js
 ├── core/
@@ -138,4 +138,4 @@ router.init();
 Este proyecto es de código abierto y puede ser utilizado libremente.
 
 ---
-**¡Disfruta organizando tus tareas con Mini Todo App!** 🎉
+**¡Disfruta organizando tus tareas con Nano ToDo!** 🎉
